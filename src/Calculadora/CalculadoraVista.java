@@ -203,7 +203,7 @@ public class CalculadoraVista extends javax.swing.JFrame {
         });
 
         btnMultiplicar.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
-        btnMultiplicar.setText("X");
+        btnMultiplicar.setText("x");
         btnMultiplicar.setPreferredSize(new java.awt.Dimension(60, 60));
         btnMultiplicar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
